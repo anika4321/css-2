@@ -1,0 +1,285 @@
+body{
+    background-color: rgb(218, 226, 226);
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.A{
+    margin: 20px;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: 3ms;
+}
+.B{
+    position: absolute;
+    top: 140px;
+    left: 75px;
+}
+.B a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.B a:hover{
+    color: red;
+}
+.C{
+    margin: 0 150px;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: 3ms;
+}
+.D{
+    position: absolute;
+    top: 150px;
+    left: 65px;
+}
+.D a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.D a:hover{
+    color: red;
+}
+.E{
+    margin: 0 30px;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: 3ms;
+}
+.F{
+    position: absolute;
+    top: 150px;
+    left: 65px;
+}
+.F a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.F a:hover{
+    color: red;
+}
+.G{
+    margin: 0 150px;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: 3ms;
+}
+.H{
+    position: absolute;
+    top: 140px;
+    left: 65px;
+}
+.H a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.H a:hover{
+    color: red;
+}
+.I{
+    margin: 0 30px;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: 3ms;
+}
+.J{
+    position: absolute;
+    top: 140px;
+    left: 65px;
+}
+.J a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.J a:hover{
+    color: red;
+}
+.K{
+    margin: auto;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: 3ms;
+}
+p{
+    position: absolute;
+    top: 20px;
+    left: 5px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 0 10px 10px 0;
+    font-size: small;
+    padding: 5px;
+}
+.L{
+    position: absolute;
+    top: 320px;
+    left: 175px;
+}
+.L a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.L a:hover{
+    color: red;
+}
+.M{
+    position: absolute;
+    top: 360px;
+    left: 165px;
+    color: red;
+}
+.N{
+    position: absolute;
+    top: 360px;
+    left: 230px;
+    color: rgb(119, 121, 123);
+    text-decoration: line-through;
+}
+.a{
+    margin:auto;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: 3ms;
+}
+.c{
+    position: absolute;
+    top: 20px;
+    left: 5px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 0 10px 10px 0;
+    font-size: small;
+    padding: 5px;
+}
+.d{
+    position: absolute;
+    top: 340px;
+    left: 5px;
+}
+.d a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.d a:hover{
+    color: red;
+}
+.k{
+    margin: auto;
+    width: 10px;
+    font-family: sans-serif;
+    position: relative;
+    display: inline-block;
+}
+img{
+    border-radius: 30px;
+    opacity: 1;
+    display: block;
+    padding: auto;
+    transition: .5s ease;
+    transition: 3ms;
+}
+p{
+    position: absolute;
+    top: 20px;
+    left: 5px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 0 10px 10px 0;
+    font-size: small;
+    padding: 5px;
+}
+.l{
+    position: absolute;
+    top: 320px;
+    left: 80px;
+}
+.l a{
+    color: black;
+    text-decoration: none;
+    transition: 3ms;
+}
+.l a:hover{
+    color: red;
+}
+.m{
+    position: absolute;
+    top: 360px;
+    left: 165px;
+    color: red;
+}
+.n{
+    position: absolute;
+    top: 360px;
+    left: 230px;
+    color: rgb(119, 121, 123);
+    text-decoration: line-through;
+}
+img:hover{
+    border-radius: 50px;
+}
